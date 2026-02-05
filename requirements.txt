@@ -3,3 +3,5 @@ uvicorn
 boto3
 python-dotenv
 mcp
+bedrock-agentcore
+strands-agents
